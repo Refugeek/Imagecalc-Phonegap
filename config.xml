@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+	xmlns:gap = "http://phonegap.com/ns/1.0"
+	id = "com.refugeek.fiverrimagecalc"
+	version   = "0.0.1">
+
+	<name>Image Calculator for Fiverr</name>
+
+	<description>
+		Image Calculator for Fiverr is a convenient tool for Fiverr sellers to calculate the appropriate size for their gig images.
+	</description>
+
+	<author href="http://refugeek.com/Easy-config-xml-for-Phonegap-Build/index.html" email="info@refugeek.com">
+		Refugeek
+	</author>
+
+</widget>
+
+<preference name="phonegap-version" value="2.9.0" />
+
+<preference name="orientation" value="portrait" />
+
+<preference name="fullscreen" value="false" />
