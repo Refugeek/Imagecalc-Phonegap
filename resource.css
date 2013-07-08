@@ -1,0 +1,7 @@
+/*
+Handheld Designer CSS template file
+*/
+
+div.ui-disabled {
+opacity: 0.6 !important;
+}
