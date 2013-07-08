@@ -14,10 +14,12 @@
 		Refugeek
 	</author>
 
-</widget>
+
 
 <preference name="phonegap-version" value="2.9.0" />
 
 <preference name="orientation" value="portrait" />
 
 <preference name="fullscreen" value="false" />
+
+</widget>
